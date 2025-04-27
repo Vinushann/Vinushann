@@ -1,6 +1,6 @@
-# 👋 Hi, I’m @Vinushann
+# Hi, I’m @Vinushann
 
-- 👀 I’m interested in Data Science, Machine Learning.
+- 👀 My areas are in Data Science and Machine Learning.
 - 📫 How to reach me: vinushan.vimalraj@gmail.com | [+94 75 885 3039](tel:+94758853039)
 
 
